@@ -28,3 +28,9 @@ A escolha desse tema se deve à importância da Matemática Financeira na tomada
 2. **Macêdo, Alvaro.** Matemática Financeira. Mossoró: EdUFERSA.
 3. **Cunha, Clístines; Laudares, João**. Educação Financeira e Matemática Financeira: Uma Possibilidade Pela Educação Matemática. Perspectivas da Educação Matemática (UFMS), 2019.
 4. **Puccini, Ernesto.** Matemática Financeira e Análise de Investimentos. 2. ed. Florianópolis: Universidade Federal de Santa Catarina (UFSC), 2012. Programa Nacional de Formação em Administração Pública (PNAP/CAPES/UAB), 2012.
+
+## Como o NotebookLM foi utilizado
+
+Foram adicionadas quatro fontes ao NotebookLM, incluindo materiais acadêmicos e institucionais sobre Matemática Financeira. Após a indexação dos documentos, foram realizadas perguntas de complexidade crescente com o objetivo de avaliar a capacidade da IA em compreender o conteúdo, sintetizar informações, comparar conceitos apresentados por diferentes autores e gerar exemplos práticos baseados nas fontes fornecidas.
+
+Além das consultas conceituais, também foram exploradas aplicações práticas, resolução de dúvidas e explicações passo a passo, permitindo verificar como o NotebookLM organiza o conhecimento e fundamenta suas respostas utilizando exclusivamente os materiais disponibilizados. Esse processo contribuiu para transformar as fontes em um ambiente de estudo interativo e facilitar a revisão dos conteúdos ao longo do aprendizado.
